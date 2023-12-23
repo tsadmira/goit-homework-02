@@ -19,7 +19,7 @@ body {
     text-decoration: none;
 }
 .span-logo {
-    color:#2E2F42;
+    color:#2e2f42;
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
@@ -85,10 +85,11 @@ body {
 }
 
 .title-main {
+    text-align: center;
     font-size: 56px;
     font-weight: 700;
-    line-height: 1.14;
-    letter-spacing: 1.07em;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
     color: #FFF;
     text-align: center;
 }
@@ -134,9 +135,10 @@ body {
 }
 .title-second {
     color:#2E2F42;
+    text-align: center;
     font-size: 36px;
     font-weight: 700;
-    line-height: 1.2;
+    line-height: 1.11;
     letter-spacing: 0.72px;
     text-transform: capitalize;
 }
@@ -144,6 +146,7 @@ body {
 .list-section-two {}
 
 .item-list-second-section {
+    background-color: #FFFFFF;
 }
 
 .title-list-section-two {
@@ -170,7 +173,8 @@ body {
     text-align: center;
     font-size: 36px;
     font-weight: 700;
-    line-height: 1.2;
+    line-height: 1.11;
+    text-align: center;
     letter-spacing: 0.72px;
     text-transform: capitalize;
 }
@@ -210,7 +214,6 @@ body {
 }
 .span-logo {
     color: #F4F4FD;
-    width: 71px;
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
